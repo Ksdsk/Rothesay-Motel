@@ -1,0 +1,9 @@
+.cambria {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+  /* centering */
+
+  .centerdiv {
+      margin: auto;
+  }
