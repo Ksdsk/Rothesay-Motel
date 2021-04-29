@@ -4,11 +4,9 @@ figure.snip1084 {
   color: #fff;
   position: relative;
   overflow: hidden;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  /* margin: 10px; */
+  margin: 10px;
   min-width: 220px;
-  max-width: 432PX;
+  max-width: 310px;
   max-height: 220px;
   width: 100%;
   background: #000000;
@@ -141,11 +139,13 @@ figure.snip1084.hover:after {
 }
 
 
+
 .triplecontainer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-flow: wrap;
-    margin: 0;
-    height: 100%;
-  }
+  background-color: #212121;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: wrap;
+  margin: 0;
+  height: 100%;
+}
